@@ -1,6 +1,0 @@
-This folder contains the C files and images of the programs in use in the Linux Kernel. The console photos show the output of respective tests, and the ILA shows the hardware output of each respective test. The 5 total tests within these files are as follows:
-- Simple Write
-- Complex Write
-- Simple Read
-- Complex Read
-- Ack Error
