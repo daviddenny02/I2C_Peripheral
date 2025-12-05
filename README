@@ -1,0 +1,17 @@
+David Denny, 1001915603
+I2C Peripheral SoC Final Project Submission
+
+All relevant files for the submission of the SoC semester's project can be found in this folder.
+
+C_Files contains the C files and images of the programs in use in the Linux Kernel. The console photos show the output of respective tests, and the ILA shows the hardware output of each respective test. The 5 total tests within these files are as follows:
+- Simple Write
+- Complex Write
+- Simple Read
+- Complex Read
+- Ack Error
+
+FPGA_Only_FSM_And_Testbench_Files contains the files that comprise an FPGA/Vivado only project to test the FSM with the module itself, and a top-level Testbench.
+
+I2C_AXI_Peripheral_Files contains all of the SystemVerilog files used to implement the I2C Peripheral, including an image of the Block Diagram once completed.
+
+Kernel_Module_Files contains all of the requisite files used to implement the Kernel Module, central to Lab 6.
